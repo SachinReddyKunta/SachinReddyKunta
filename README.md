@@ -32,10 +32,13 @@ My name is Sachin and I am a full stack web devloper. I am proficient in MERN st
 ### Connect with me :
 
 <p float='left'>
-<a href="https://www.linkedin.com/in/sachin-reddy/"><img src="https://camo.githubusercontent.com/d1467bdcb2ab62a00dca9463b82a326146cd2ac3659be80dd6c68d5dd9bbb112/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564696e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d706f7274666f6c696f266c6f676f436f6c6f723d7768697465" height="25" /></a>
+<a href="https://www.linkedin.com/in/sachin-reddy/">
+<img src="https://camo.githubusercontent.com/d1467bdcb2ab62a00dca9463b82a326146cd2ac3659be80dd6c68d5dd9bbb112/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564696e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d706f7274666f6c696f266c6f676f436f6c6f723d7768697465" height="25" /></a>
   
   
-<a href="https://twitter.com/i_Sachin_k?s=08"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white7465" height="25" /></a>
+<a href="https://twitter.com/i_Sachin_k?s=08">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white7465" height="25" />
+</a>
 
 </p>
 
