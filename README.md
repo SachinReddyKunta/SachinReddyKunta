@@ -42,6 +42,9 @@ My name is Sachin and I am a full stack web devloper. I am proficient in MERN st
 
 </p>
 
+### GitHub Stats :
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SachinReddyKunta&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SachinReddyKunta&langs_count=5&theme=tokyonight)]()
 
 <!--
 **SachinReddyKunta/SachinReddyKunta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
