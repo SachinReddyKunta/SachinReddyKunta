@@ -3,9 +3,9 @@
 My name is Sachin and I am a full stack web devloper. I am proficient in MERN stack. Developing web applications is my passaion.I am looking for an oppurtunities that will help me grow and learn more web technologies. My hobbies are reading books, watching anime and travelling.
 
 
-#### Tools and Technlogies
+### Tools and Technlogies
 
-[](https://camo.githubusercontent.com/2fad14d202b24de54ef28fb28fc41b3fe661fc22ca72ab6045ed280d277bb536/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c6174266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)<img src="https://camo.githubusercontent.com/2fad14d202b24de54ef28fb28fc41b3fe661fc22ca72ab6045ed280d277bb536/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c6174266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" height="40">
+[](https://camo.githubusercontent.com/2fad14d202b24de54ef28fb28fc41b3fe661fc22ca72ab6045ed280d277bb536/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c6174266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)<img src="https://camo.githubusercontent.com/2fad14d202b24de54ef28fb28fc41b3fe661fc22ca72ab6045ed280d277bb536/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c6174266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" height="20">
 <!--
 **SachinReddyKunta/SachinReddyKunta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
